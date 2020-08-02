@@ -7,7 +7,7 @@
 [License Badge]: https://img.shields.io/crates/l/swayipc-command-builder.svg
 [license]: https://github.com/JayceFayne/swayipc-command-builder/blob/master/LICENSE.md
 
-A Rust library for for building [Commands](https://github.com/swaywm/sway/blob/master/sway/sway.5.scd#L55) that can be executed by [swayipc](https://github.com/jaycefayne/swayipc-rs).
+A Rust library for for building [commands](https://github.com/swaywm/sway/blob/master/sway/sway.5.scd#L55) that can be executed by [swayipc-rs](https://github.com/jaycefayne/swayipc-rs).
 
 ## Usage
 
