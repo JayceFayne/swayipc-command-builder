@@ -9,5 +9,5 @@ jobs:
       - uses: actions/checkout@v2
       - name: Build
         run: cargo build --release --verbose
-      - name: Build with async features
+      - name: Test
         run: cargo test --verbose
